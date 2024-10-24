@@ -1,4 +1,4 @@
-## Hi my name is Eligijus! 👋🇱🇹
+## Hi my name is Eligijus! 👋
 
 # 💫 About Me:
 🔭 I’m currently working on recreating the game of Chess in Java.<br>🤝 I’m looking for help with improving my code.<br>🌱 I’m currently learning Java.<br>💬 Ask me about games or music.
