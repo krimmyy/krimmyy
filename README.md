@@ -1,7 +1,7 @@
-## Hi my name is Eligijus! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=8F41EA&width=435&lines=Hello%2C+my+name+is+Eligijus!)](https://git.io/typing-svg)
 
-# 💫 About Me:
-🔭 I’m currently working on recreating the game of Chess in Java.<br>🤝 I’m looking for help with improving my code.<br>🌱 I’m currently learning Java.<br>💬 Ask me about games or music.
+## 💫 About Me:
+🧑‍🎓 Studying Software Engineering at the University of Ulster.<br> 🔭 Currently working on recreating the game of Chess in Java.<br>🤝 Looking for help with improving my code.<br>🌱 Currently learning Java.<br>💬 Ask me about Games or Music.
 
 
 ## 🌐 Socials:
@@ -14,11 +14,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=krimmyy&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krimmyy&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🎵 Recently Listened To
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=11166288042&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=f1e4e4&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=11166288042&redirect=true)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=krimmyy&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🤡 Funny Joke Haha
+![Jokes Card](https://readme-jokes.vercel.app/api?hideborder&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=krimmyy&icon=5&color=6)](https://visitcount.itsvg.in)
